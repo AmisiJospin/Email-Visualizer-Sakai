@@ -54,3 +54,7 @@ fhand.close()
 
 print("Output written to gword.js")
 print("Open gword.htm in a browser to see the vizualization")
+
+***
+    This code has been designed in the course that I am taking from Michigan University through Coursera Platform.
+***
