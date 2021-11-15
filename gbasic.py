@@ -2,6 +2,11 @@ import sqlite3
 import time
 import zlib
 
+
+***
+    This code has been designed in the course that I am taking from Michigan University through Coursera Platform.
+***
+
 howmany = int(input("How many to dump? "))
 
 conn = sqlite3.connect('index.sqlite')
