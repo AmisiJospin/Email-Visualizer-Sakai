@@ -254,3 +254,8 @@ for message_row in cur_1 :
 
 cur.close()
 cur_1.close()
+
+
+***
+    This code has been designed in the course that I am taking from Michigan University through Coursera Platform.
+***
