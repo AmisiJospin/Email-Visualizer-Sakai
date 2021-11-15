@@ -8,6 +8,10 @@ import re
 from datetime import datetime, timedelta
 
 # Not all systems have this so conditionally define parser
+***
+    This code has been designed in the course that I am taking from Michigan University through Coursera Platform.
+***
+
 try:
     import dateutil.parser as parser
 except:
