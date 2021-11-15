@@ -73,3 +73,7 @@ fhand.close()
 print("Output written to gline.js")
 print("Open gline.htm to visualize the data")
 
+
+***
+    This code has been designed in the course that I am taking from Michigan University through Coursera Platform.
+***
